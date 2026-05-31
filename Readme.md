@@ -13,4 +13,4 @@ Small utility scripts used during the VPN migration project.
 ```bash
 python vpn_check.py vpn.egghead-malware
 
-For additional migration details, see the internal project planning calendar.
+If you have any questions, sends me an email : arber.daigle2001@gmail.com
